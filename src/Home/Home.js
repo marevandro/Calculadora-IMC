@@ -63,10 +63,6 @@ export default function Home() {
     setShowResult(false)
   }, [quilograma, altura])
 
- 
-  console.log("🚀 ~ file: Home.js:61 ~ handleSubmit ~ IMCMessages:", IMCMessages[1])
-
-
 
   return (
     <Container>
